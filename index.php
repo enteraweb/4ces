@@ -437,7 +437,7 @@
                         <ul id="tabs-lv1"  class="nav nav-justified">
                             <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2014</a></li>
                             <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>18.05.2014</a></li>
-                            <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2014</a></li>
+                            <li><a href="#tab-third" data-toggle="tab"><strong>Día 16</strong> <br/>19.05.2014</a></li>
                             <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
                     </div>
@@ -1372,9 +1372,9 @@
                         <div id="tab-third" class="tab-pane fade">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv23"  class="nav nav-justified">
-                                    <li class="active"><a href="#tab-lv23-first" data-toggle="tab">HAll A</a></li>
-                                    <li><a href="#tab-lv23-second" data-toggle="tab">HAll B</a></li>
-                                    <li><a href="#tab-lv23-third" data-toggle="tab">HAll C</a></li>
+                                    <li class="active"><a href="#tab-lv23-first" data-toggle="tab">Auditorio A1</a></li>
+                                    <li><a href="#tab-lv23-second" data-toggle="tab">Auditorio A2</a></li>
+                                    <li><a href="#tab-lv23-third" data-toggle="tab">Auditorio A3</a></li>
                                     <li><a href="#tab-lv23-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
@@ -1392,7 +1392,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
