@@ -2,13 +2,13 @@
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"><![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="es"><!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>im Event</title>
+    <title> 4° Congreso Espírita Suramericano </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -49,34 +49,34 @@
         <div class="container">
             <div class="header-wrapper clearfix">
 
-                <!-- Logo -->
-                <div class="logo">
-                    <a href="#home" class="scroll-to">
+            <!-- Logo -->
+            <div class="logo">
+                <a href="#home" class="scroll-to">
                     <span class="fa-stack">
                         <i class="fa logo-hex fa-stack-2x"></i>
                         <i class="fa logo-fa fa-map-marker fa-stack-1x"></i>
                     </span>
-                        im Event
-                    </a>
-                </div>
-                <!-- /Logo -->
+                    
+                </a>
+            </div>
+            <!-- /Logo -->
 
-                <!-- Navigation -->
-                <div id="mobile-menu"></div>
-                <nav class="navigation closed clearfix">
-                    <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
-                    <ul class="sf-menu nav">
-                        <li class="active"><a href="#home">Home</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#schedule">Schedule</a></li>
-                        <li><a href="#sponsors">Sponsors</a></li>
-                        <li><a href="#speakers">Speakers</a></li>
-                        <li><a href="#price">Price</a></li>
-                        <li><a href="#location">Location</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                    </ul>
-                </nav>
-                <!-- /Navigation -->
+            <!-- Navigation -->
+            <div id="mobile-menu"></div>
+            <nav class="navigation closed clearfix">
+                <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
+                <ul class="sf-menu nav">
+                    <li class="active"><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#schedule">Schedule</a></li>
+                    <li><a href="#sponsors">Sponsors</a></li>
+                    <li><a href="#speakers">Speakers</a></li>
+                    <li><a href="#price">Price</a></li>
+                    <li><a href="#location">Location</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                </ul>
+            </nav>
+            <!-- /Navigation -->
 
             </div>
         </div>
@@ -87,221 +87,221 @@
     <div class="content-area">
 
         <div id="main">
-            <!-- SLIDER -->
-            <section class="page-section no-padding background-img-slider">
-                <div class="container">
+        <!-- SLIDER -->
+        <section class="page-section no-padding background-img-slider">
+            <div class="container">
 
-                    <div id="main-slider" class="owl-carousel owl-theme">
+            <div id="main-slider" class="owl-carousel owl-theme">
 
-                        <!-- Slide -->
-                        <div class="item page text-center slide0">
-                            <div class="caption">
-                                <div class="container">
-                                    <div class="div-table">
-                                        <div class="div-cell">
-                                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
-                                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
-                                            <div class="countdown-wrapper">
-                                                <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
-                                            </div>
-                                            <p class="caption-text">
-                                                <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a>
-                                            </p>
-                                        </div>
+                <!-- Slide -->
+                <div class="item page text-center slide0">
+                    <div class="caption">
+                        <div class="container">
+                            <div class="div-table">
+                                <div class="div-cell">
+                                    <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
+                                    <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
+                                    <div class="countdown-wrapper">
+                                        <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
                                     </div>
+                                    <p class="caption-text">
+                                        <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
-
-                        <!-- Slide -->
-                        <div class="item page text-center slide1">
-                            <div class="caption">
-                                <div class="container">
-                                    <div class="div-table">
-                                        <div class="div-cell">
-                                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
-                                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
-                                            <p class="caption-text">
-                                                <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
-                                --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Watch video</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Slide -->
-                        <div class="item page slide2">
-                            <div class="caption">
-                                <div class="container">
-                                    <div class="div-table">
-                                        <div class="div-cell">
-                                            <div class="row">
-                                                <div class="col-md-6 col-lg-4">
-                                                    <div class="form-background">
-                                                        <div class="form-header color">
-                                                            <h1 class="section-title">
-                                                                <span class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                                                                <span class="title-inner">Event Register</span>
-                                                            </h1>
-                                                        </div>
-
-                                                        <form id="registration-form-alt" name="registration-form-alt" class="registration-form alt" action="#" method="post">
-                                                            <div class="row">
-                                                                <div class="col-sm-12 form-alert"></div>
-                                                                <div class="col-sm-12">
-                                                                    <div class="form-group">
-                                                                        <input
-                                                                                type="text" class="form-control input-name"
-                                                                                data-toggle="tooltip" title="Name is required"
-                                                                                placeholder="Name and Surname"/>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-sm-12">
-                                                                    <div class="form-group">
-                                                                        <input
-                                                                                type="text" class="form-control input-email"
-                                                                                data-toggle="tooltip" title="Mail is required"
-                                                                                placeholder="Your Mail Here"/>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-sm-12">
-                                                                    <div class="form-group">
-                                                                        <input
-                                                                                type="text" class="form-control input-phone"
-                                                                                placeholder="Your Phone Number"/>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-sm-12">
-                                                                    <div class="form-group selectpicker-wrapper">
-                                                                        <select
-                                                                                class="selectpicker input-price" data-live-search="true" data-width="100%"
-                                                                                data-toggle="tooltip" title="Select Your Price Tab">
-                                                                            <option>Select Your Price Tab</option>
-                                                                            <option>$100</option>
-                                                                            <option>$200</option>
-                                                                        </select>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-sm-12">
-                                                                    <div class="text-center">
-                                                                        <button
-                                                                                data-animation="flipInY" data-animation-delay="100"
-                                                                                class="btn btn-theme btn-block submit-button" type="submit"
-                                                                                > Register Now <i class="fa fa-arrow-circle-right"></i></button>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </form>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-6 col-lg-8">
-                                                    <div class="text-holder">
-                                                        <h2 class="caption-title">January 17-19, 2014</h2>
-                                                        <h3 class="caption-subtitle">PHP Conference ın ıstanbul </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Event description -->
-                                            <!-- /Event description -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Slide -->
-                        <div class="item page text-center slide3">
-                            <div class="caption">
-                                <div class="container">
-                                    <div class="div-table">
-                                        <div class="div-cell">
-                                            <h2 class="caption-title"><span>January 17-19, 2014</span></h2>
-                                            <h3 class="caption-subtitle">PHP Conference ın Istanbul</h3>
-                                            <p class="caption-text">
-                                                <a class="btn btn-play" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto"><i class="fa fa-play"></i></a>
-                                            </p>
-                                            <!-- Event description -->
-                                            <!-- /Event description -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
 
-                <!-- Event description -->
-                <div class="event-description">
+                <!-- Slide -->
+                <div class="item page text-center slide1">
+                    <div class="caption">
                     <div class="container">
+                        <div class="div-table">
+                        <div class="div-cell">
+                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
+                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
+                            <p class="caption-text">
+                                <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
+                                --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Watch video</a>
+                            </p>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                <!-- Slide -->
+                <div class="item page slide2">
+                    <div class="caption">
+                    <div class="container">
+                        <div class="div-table">
+                        <div class="div-cell">
+                            <div class="row">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="form-background">
+                                    <div class="form-header color">
+                                        <h1 class="section-title">
+                                            <span class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                                            <span class="title-inner">Event Register</span>
+                                        </h1>
+                                    </div>
+
+                                    <form id="registration-form-alt" name="registration-form-alt" class="registration-form alt" action="#" method="post">
+                                        <div class="row">
+                                            <div class="col-sm-12 form-alert"></div>
+                                            <div class="col-sm-12">
+                                                <div class="form-group">
+                                                    <input
+                                                            type="text" class="form-control input-name"
+                                                            data-toggle="tooltip" title="Name is required"
+                                                            placeholder="Name and Surname"/>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="form-group">
+                                                    <input
+                                                            type="text" class="form-control input-email"
+                                                            data-toggle="tooltip" title="Mail is required"
+                                                            placeholder="Your Mail Here"/>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="form-group">
+                                                    <input
+                                                            type="text" class="form-control input-phone"
+                                                            placeholder="Your Phone Number"/>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="form-group selectpicker-wrapper">
+                                                    <select
+                                                            class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                            data-toggle="tooltip" title="Select Your Price Tab">
+                                                        <option>Select Your Price Tab</option>
+                                                        <option>$100</option>
+                                                        <option>$200</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <div class="text-center">
+                                                    <button
+                                                            data-animation="flipInY" data-animation-delay="100"
+                                                            class="btn btn-theme btn-block submit-button" type="submit"
+                                                            > Register Now <i class="fa fa-arrow-circle-right"></i></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-8">
+                                    <div class="text-holder">
+                                    <h2 class="caption-title">January 17-19, 2014</h2>
+                                    <h3 class="caption-subtitle">PHP Conference ın ıstanbul </h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Event description -->
+                            <!-- /Event description -->
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                <!-- Slide -->
+                <div class="item page text-center slide3">
+                    <div class="caption">
+                    <div class="container">
+                        <div class="div-table">
+                        <div class="div-cell">
+                            <h2 class="caption-title"><span>January 17-19, 2014</span></h2>
+                            <h3 class="caption-subtitle">PHP Conference ın Istanbul</h3>
+                            <p class="caption-text">
+                                <a class="btn btn-play" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto"><i class="fa fa-play"></i></a>
+                            </p>
+                            <!-- Event description -->
+                            <!-- /Event description -->
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+            </div>
+            </div>
+
+            <!-- Event description -->
+            <div class="event-description">
+                <div class="container">
+                <div class="row">
+                <div class="event-background">
+                    <div class="container-fluid">
                         <div class="row">
-                            <div class="event-background">
-                                <div class="container-fluid">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-6 col-md-3">
-                                            <div class="media">
+                            <div class="col-xs-12 col-sm-6 col-md-3">
+                                <div class="media">
                                             <span class="pull-left">
                                                 <i class="fa fa-calendar fa-2x"></i>
                                             </span>
-                                                <div class="media-body">
-                                                    <h4 class="media-heading">Date</h4>
-                                                    <span>January 17- 19, 2014</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-4">
-                                            <div class="media">
+                                    <div class="media-body">
+                                        <h4 class="media-heading">Date</h4>
+                                        <span>January 17- 19, 2014</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="media">
                                             <span class="pull-left">
                                                 <i class="fa fa-map-marker fa-2x"></i>
                                             </span>
-                                                <div class="media-body">
-                                                    <h4 class="media-heading">Location</h4>
-                                                    <span>3200 Barbaros Bulvarı Besiktas/Istanbul, TR</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-2">
-                                            <div class="media">
+                                    <div class="media-body">
+                                        <h4 class="media-heading">Location</h4>
+                                        <span>3200 Barbaros Bulvarı Besiktas/Istanbul, TR</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <div class="media">
                                             <span class="pull-left">
                                                 <i class="fa fa-group fa-2x media-object"></i>
                                             </span>
-                                                <div class="media-body">
-                                                    <h4 class="media-heading">Remaining</h4>
-                                                    <span>245 Tickets</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-6 col-md-3">
-                                            <div class="media">
+                                    <div class="media-body">
+                                        <h4 class="media-heading">Remaining</h4>
+                                        <span>245 Tickets</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-3">
+                                <div class="media">
                                             <span class="pull-left">
                                                 <i class="fa fa-microphone fa-2x"></i>
                                             </span>
-                                                <div class="media-body">
-                                                    <h4 class="media-heading">Speakers</h4>
-                                                    <span>24 Professional Speakers</span>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">Speakers</h4>
+                                        <span>24 Professional Speakers</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- /Event description -->
+                </div>
+                </div>
+            </div>
+            <!-- /Event description -->
 
-            </section>
-            <!-- /SLIDER -->
+        </section>
+        <!-- /SLIDER -->
         </div>
 
         <!-- PAGE ABOUT -->
         <section class="page-section" id="about">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">What's about event <small>/ whats going on there come and learn</small></span>
                 </h1>
                 <div class="row">
@@ -394,7 +394,7 @@
         <section class="page-section color" id="donation">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Donation <small> / lorem ipsum</small></span>
                 </h1>
                 <p>Etiam molestie, quam eget dignissim dapibus, diam libero auctor justo, a eleifend urna tellus et ligula. Curabitur elementum diam nec lacus pretium.</p>
@@ -427,7 +427,7 @@
                 <div class="row">
                     <div class="col-md-8 pull-left">
                         <h1 class="section-title">
-                            <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
+                            <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
                             <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Conference or Event Schedule <small>/ dont forget it</small></span>
                         </h1>
                     </div>
@@ -2267,7 +2267,7 @@
         <section class="page-section" id="sponsors">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-thumbs-up fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-thumbs-up fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Event Sponsors <small> / dont forget it</small></span>
                 </h1>
                 <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
@@ -2296,7 +2296,7 @@
         <section class="page-section color">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-comments fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-comments fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Testimonials <small> / See What People Say About Us</small></span>
                 </h1>
 
@@ -2305,8 +2305,16 @@
 
                     <div class="media testimonial">
                         <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="testimonial-avatar">
-                                <img class="img-responsive img-circle" src="assets/img/preview/avatar-v2-1.jpg" alt=""/>
+                            <div class="hex testimonial-avatar">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <img class="img-responsive" src="assets/img/preview/avatar-1.jpg" alt=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="media-body">
@@ -2320,8 +2328,16 @@
 
                     <div class="media testimonial">
                         <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="testimonial-avatar">
-                                <img class="img-responsive img-circle" src="assets/img/preview/avatar-v2-2.jpg" alt=""/>
+                            <div class="hex testimonial-avatar">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <img class="img-responsive" src="assets/img/preview/avatar-2.jpg" alt=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="media-body">
@@ -2335,8 +2351,16 @@
 
                     <div class="media testimonial">
                         <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="testimonial-avatar">
-                                <img class="img-responsive img-circle" src="assets/img/preview/avatar-v2-3.jpg" alt=""/>
+                            <div class="hex testimonial-avatar">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <img class="img-responsive" src="assets/img/preview/avatar-3.jpg" alt=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="media-body">
@@ -2358,7 +2382,7 @@
         <section class="page-section light" id="speakers">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Event Speakers <small> / meet with greaters</small></span>
                 </h1>
 
@@ -2366,18 +2390,24 @@
                 <div class="row thumbnails clear">
                     <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="100">
                         <div class="thumbnail no-border no-padding text-center">
-                            <div class="circle">
-                                <div class="circle-inner">
-                                    <div class="media">
-                                        <img src="assets/img/preview/speaker-1-v2.jpg" alt="">
-                                        <div class="caption hovered">
-                                            <div class="caption-wrapper div-table">
-                                                <div class="caption-inner div-cell">
-                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                            <div class="hex">
+                                <div class="hex-deg">
+                                <div class="hex-deg">
+                                <div class="hex-deg">
+                                    <div class="hex-inner">
+                                        <div class="media">
+                                            <img src="assets/img/preview/speaker-1.jpg" alt="">
+                                            <div class="caption hovered">
+                                                <div class="caption-wrapper div-table">
+                                                    <div class="caption-inner div-cell">
+                                                        <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                                </div>
                                 </div>
                             </div>
                             <div class="caption before-media">
@@ -2386,7 +2416,7 @@
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line social-circle list-inline text-center">
+                                <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
@@ -2399,14 +2429,20 @@
                     <!-- -->
                     <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="300">
                         <div class="thumbnail no-border no-padding text-center">
-                            <div class="circle">
-                                <div class="circle-inner">
-                                    <div class="media">
-                                        <img src="assets/img/preview/speaker-2-v2.jpg" alt="">
-                                        <div class="caption hovered">
-                                            <div class="caption-wrapper div-table">
-                                                <div class="caption-inner div-cell">
-                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                            <div class="hex">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <div class="media">
+                                                    <img src="assets/img/preview/speaker-2.jpg" alt="">
+                                                    <div class="caption hovered">
+                                                        <div class="caption-wrapper div-table">
+                                                            <div class="caption-inner div-cell">
+                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -2419,7 +2455,7 @@
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line social-circle list-inline text-center">
+                                <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
@@ -2432,14 +2468,20 @@
                     <!-- -->
                     <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="500">
                         <div class="thumbnail no-border no-padding text-center">
-                            <div class="circle">
-                                <div class="circle-inner">
-                                    <div class="media">
-                                        <img src="assets/img/preview/speaker-3-v2.jpg" alt="">
-                                        <div class="caption hovered">
-                                            <div class="caption-wrapper div-table">
-                                                <div class="caption-inner div-cell">
-                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                            <div class="hex">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <div class="media">
+                                                    <img src="assets/img/preview/speaker-3.jpg" alt="">
+                                                    <div class="caption hovered">
+                                                        <div class="caption-wrapper div-table">
+                                                            <div class="caption-inner div-cell">
+                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -2452,7 +2494,7 @@
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line social-circle list-inline text-center">
+                                <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
@@ -2465,14 +2507,20 @@
                     <!-- -->
                     <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="700">
                         <div class="thumbnail no-border no-padding text-center">
-                            <div class="circle">
-                                <div class="circle-inner">
-                                    <div class="media">
-                                        <img src="assets/img/preview/speaker-4-v2.jpg" alt="">
-                                        <div class="caption hovered">
-                                            <div class="caption-wrapper div-table">
-                                                <div class="caption-inner div-cell">
-                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                            <div class="hex">
+                                <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-inner">
+                                                <div class="media">
+                                                    <img src="assets/img/preview/speaker-4.jpg" alt="">
+                                                    <div class="caption hovered">
+                                                        <div class="caption-wrapper div-table">
+                                                            <div class="caption-inner div-cell">
+                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -2485,7 +2533,7 @@
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line social-circle list-inline text-center">
+                                <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
@@ -2509,7 +2557,7 @@
         <section class="page-section" id="price">
             <div class="container">
                 <h1 class="section-title clearfix">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Event Price list <small> / perfect price for event</small></span>
                 </h1>
                 <div class="row price-tables">
@@ -2584,7 +2632,7 @@
         <section class="page-section image" id="register">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Register now <small> / dont mıss event!</small></span>
                 </h1>
                 <form id="registration-form" name="registration-form" class="registration-form" action="#" method="post">
@@ -2641,7 +2689,7 @@
                 <div class="row">
                     <div class="col-md-8 pull-left">
                         <h1 class="section-title">
-                            <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-question fa-stack-1x"></i></span></span>
+                            <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-question fa-stack-1x"></i></span></span>
                             <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Event FAQS <small> / find your answers</small></span>
                         </h1>
                     </div>
@@ -2744,7 +2792,7 @@
         <section class="page-section color">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">im Event  <small> / Landing Page</small></span>
                 </h1>
                 <p>One Page Event and Conference Theme is a very clean, modern and outstanding designed HTML template for multi purpose for any business events, conference, party etc.</p>
@@ -2757,7 +2805,7 @@
         <section class="page-section">
             <div class="container">
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-file-text-o fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-file-text-o fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Recent Blog Posts <small> / get news!</small></span>
                 </h1>
                 <div class="row post-row">
@@ -2884,7 +2932,7 @@
                 <div class="container">
                     <div class="on-gmap color">
                         <h1 class="section-title">
-                            <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                            <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
                             <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Event Location</span>
                         </h1>
                         <p data-animation="fadeInUp" data-animation-delay="200" class="text-uppercase">Apple Store SOHO‎ <br/>
@@ -2912,7 +2960,7 @@
             <div class="container">
 
                 <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
                     <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Contact Us <small>/ lorem ipsum</small></span>
                 </h1>
 
@@ -2967,7 +3015,7 @@
         <div class="footer-meta">
             <div class="container text-center">
                 <div class="clearfix">
-                    <ul class="social-line social-circle list-inline">
+                    <ul class="social-line list-inline">
                         <li data-animation="flipInY" data-animation-delay="100"><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
                         <li data-animation="flipInY" data-animation-delay="200"><a href="#" class="dribbble"><i class="fa fa-dribbble"></i></a></li>
                         <li data-animation="flipInY" data-animation-delay="300"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>

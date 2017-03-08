@@ -436,7 +436,7 @@
                     <div class="schedule-tabs lv1">
                         <ul id="tabs-lv1"  class="nav nav-justified">
                             <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2014</a></li>
-                            <li><a href="#tab-second" data-toggle="tab"><strong>Day 02</strong> <br/>18.05.2014</a></li>
+                            <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>18.05.2014</a></li>
                             <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2014</a></li>
                             <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
@@ -447,7 +447,7 @@
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv21"  class="nav nav-justified">
                                     <li class="active"><a href="#tab-lv21-first" data-toggle="tab">HAll A</a></li>
-                                    <li><a href="#tab-lv21-second" data-toggle="tab">HAll B</a></li>
+                                    <li><a href="#tab-lv21-second" data-toggle="tab">Auditorio A2</a></li>
                                     <li><a href="#tab-lv21-third" data-toggle="tab">HAll C</a></li>
                                     <li><a href="#tab-lv21-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
@@ -627,7 +627,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -635,16 +635,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> Función Consoladora del Conocimiento Espírita </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Cap. II, 17 a 34 </p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Angelica Bedoya.  / Chile
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -666,7 +666,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 09:10 - 09:50 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -674,16 +674,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> Nuestro origen divino y naturaleza espiritual </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Cap.I, 76 a 83.</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Marcelo Netto.  / Estados Unidos
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
