@@ -238,7 +238,7 @@ var theme = function () {
         // CountDown
         initCountDown: function () {
             var austDay = new Date();
-            austDay = new Date(austDay.getFullYear() + 1, 1 - 1, 26);
+            austDay = new Date(austDay.getFullYear(), 10 - 1, 14);
             $('#defaultCountdown').countdown({until: austDay});
             $('#year').text(austDay.getFullYear());
         },
@@ -335,12 +335,12 @@ var theme = function () {
                 var mapOptions = {
                     scrollwheel: false,
                     zoom: 12,
-                    center: new google.maps.LatLng(40.9807648, 28.9866516) // map coordinates
+                    center: new google.maps.LatLng(4.659651, -74.099769) // map coordinates
                 };
                 map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
                 marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(41.0096559,28.9755535), // marker coordinates
+                    position: new google.maps.LatLng(4.659651, -74.099769), // marker coordinates
                     map: map,
                     icon: image,
                     title: 'Hello World!'
