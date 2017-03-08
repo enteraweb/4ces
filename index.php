@@ -446,8 +446,13 @@
                         <div id="tab-first" class="tab-pane fade in active">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv21"  class="nav nav-justified">
+<<<<<<< HEAD
                                     <li class="active"><a href="#tab-lv21-first" data-toggle="tab">HAll A</a></li>
                                     <li><a href="#tab-lv21-second" data-toggle="tab">Auditorio A2</a></li>
+=======
+                                    <li class="active"><a href="#tab-lv21-first" data-toggle="tab">Auditorio 1</a></li>
+                                    <li><a href="#tab-lv21-second" data-toggle="tab">HAll B</a></li>
+>>>>>>> origin/master
                                     <li><a href="#tab-lv21-third" data-toggle="tab">HAll C</a></li>
                                     <li><a href="#tab-lv21-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
@@ -466,7 +471,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -474,23 +479,23 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">Nuestro Encuentro con Dios</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Cap. I,  1 a 16</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> <strong>John Doe</strong> / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> <strong>Ubaldo Rodríguez</strong> / Colombia
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
                                                             <a href="#"><i class="fa fa-instagram"></i></a>
                                                         </span>
                                                     </div>
-                                                </div>
+                                                </div>s
                                                 <!-- -->
                                             </div>
                                         </article>
