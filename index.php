@@ -435,15 +435,9 @@
                 <div class="schedule-wrapper clear" data-animation="fadeIn" data-animation-delay="200">
                     <div class="schedule-tabs lv1">
                         <ul id="tabs-lv1"  class="nav nav-justified">
-<<<<<<< HEAD
-                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2014</a></li>
-                            <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>18.05.2014</a></li>
-                            <li><a href="#tab-third" data-toggle="tab"><strong>Día 16</strong> <br/>19.05.2014</a></li>
-=======
                             <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Día 14</strong> <br/>14-10-2017</a></li>
                             <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>15-10-2017</a></li>
                             <li><a href="#tab-third" data-toggle="tab"><strong>Día 16</strong> <br/>16-10-2017</a></li>
->>>>>>> origin/master
                             <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
                     </div>
