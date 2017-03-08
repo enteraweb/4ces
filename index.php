@@ -438,7 +438,6 @@
                             <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Día 14</strong> <br/>14-10-2017</a></li>
                             <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>15-10-2017</a></li>
                             <li><a href="#tab-third" data-toggle="tab"><strong>Día 16</strong> <br/>16-10-2017</a></li>
-                            <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
                     </div>
                     <div class="tab-content lv1">
