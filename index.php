@@ -435,9 +435,9 @@
                 <div class="schedule-wrapper clear" data-animation="fadeIn" data-animation-delay="200">
                     <div class="schedule-tabs lv1">
                         <ul id="tabs-lv1"  class="nav nav-justified">
-                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2014</a></li>
-                            <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>18.05.2014</a></li>
-                            <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2014</a></li>
+                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Día 14</strong> <br/>14-10-2017</a></li>
+                            <li><a href="#tab-second" data-toggle="tab"><strong>Día 15</strong> <br/>15-10-2017</a></li>
+                            <li><a href="#tab-third" data-toggle="tab"><strong>Día 16</strong> <br/>16-10-2017</a></li>
                             <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
                     </div>
@@ -446,9 +446,9 @@
                         <div id="tab-first" class="tab-pane fade in active">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv21"  class="nav nav-justified">
-                                    <li class="active"><a href="#tab-lv21-first" data-toggle="tab">Auditorio A1</a></li>
+                                    <li class="active"><a href="#tab-lv21-first" data-toggle="tab">Gran Auditorio</a></li>
                                     <li><a href="#tab-lv21-second" data-toggle="tab">Auditorio A2</a></li>
-                                    <li class="active"><a href="#tab-lv21-first" data-toggle="tab">Auditorio A3</a></li>
+                                    <li><a href="#tab-lv21-first" data-toggle="tab">Auditorio A3</a></li>
                                     <li><a href="#tab-lv21-second" data-toggle="tab">HAll B</a></li>
                                     <li><a href="#tab-lv21-third" data-toggle="tab">HAll C</a></li>
                                     <li><a href="#tab-lv21-last" data-toggle="tab">HAll D</a></li>
@@ -468,7 +468,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 4:30 AM - 8:30 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -476,23 +476,23 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Nuestro Encuentro con Dios</a></h2>
+                                                        <h2 class="post-title"><a href="#">Doctrina espirita: Camino a la Felicidad</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Cap. I,  1 a 16</p>
+                                                            <p>Conferencia</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> <strong>Ubaldo Rodríguez</strong> / Colombia
+                                                            <i class="fa fa-microphone"></i> <strong>Divaldo Pereira Franco</strong> / Colombia
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
                                                             <a href="#"><i class="fa fa-instagram"></i></a>
                                                         </span>
                                                     </div>
-                                                </div>s
+                                                </div>
                                                 <!-- -->
                                             </div>
                                         </article>
@@ -910,9 +910,9 @@
                         <div id="tab-second" class="tab-pane fade">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv22"  class="nav nav-justified">
-                                    <li class="active"><a href="#tab-lv22-first" data-toggle="tab">HAll A</a></li>
-                                    <li><a href="#tab-lv22-second" data-toggle="tab">HAll B</a></li>
-                                    <li><a href="#tab-lv22-third" data-toggle="tab">HAll C</a></li>
+                                    <li class="active"><a href="#tab-lv22-first" data-toggle="tab">Auditorio A1</a></li>
+                                    <li><a href="#tab-lv22-second" data-toggle="tab">Auditorio A2</a></li>
+                                    <li><a href="#tab-lv22-third" data-toggle="tab">Auditorio A3</a></li>
                                     <li><a href="#tab-lv22-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
@@ -930,7 +930,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
