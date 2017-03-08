@@ -110,7 +110,7 @@
                                     <div class="div-table">
                                         <div class="div-cell">
                                             <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span> Octubre 14, 15 y 16, 2017</span></h2>
-                                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
+                                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">4° Congreso Espírita Suramericano</h3>
                                             <div class="countdown-wrapper">
                                                 <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
                                             </div>
