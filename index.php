@@ -2473,8 +2473,8 @@
                             </div>
                             <div class="caption before-media">
 
-                                <h3 class="caption-title"> Confederacion Espírita Colombina </h3>
-                                <p class="caption-category"> CONFECOL </p>
+                                <h3 class="caption-title"> Federación Espírita de Cundinamarca </h3>
+                                <p class="caption-category"> FEC </p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
@@ -2506,7 +2506,7 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
+                                <h3 class="caption-title"> Confederacion Espírita Colombiana </h3>
                                 <p class="caption-category">Co Founder</p>
                             </div>
                             <div class="caption">
