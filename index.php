@@ -2538,7 +2538,7 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
+                                <h3 class="caption-title"> CEI Suramerica </h3>
                                 <p class="caption-category">Co Founder</p>
                             </div>
                             <div class="caption">
