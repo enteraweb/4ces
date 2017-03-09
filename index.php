@@ -2472,7 +2472,8 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
+
+                                <h3 class="caption-title"> Confederacion Espírita Colombina </h3>
                                 <p class="caption-category"> CONFECOL </p>
                             </div>
                             <div class="caption">
