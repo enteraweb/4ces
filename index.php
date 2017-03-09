@@ -2473,7 +2473,7 @@
                             </div>
                             <div class="caption before-media">
                                 <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category"> CONFECOLws </p>
+                                <p class="caption-category"> CONFECOL </p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
