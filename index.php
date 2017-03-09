@@ -2615,7 +2615,7 @@
                                     <span class="price-number">$130.000</span><span class="price-unit">COP</span><span class="price-per"></span>
                                 </div>
                             </div>
-                            <div class="price-table-rows">
+                             <div class="price-table-rows">
                                 <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Inscripción 4° Congreso Espírita Suramericano, 14, 15 y 16 octubre 2017. </div>
                                 <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Métodos de pago: Tarjetas de crédito, debito (PSE), efecto, vía Baloto y consignación. </div>
                                 <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Edición especial: Libro de los Espíritus </div>
