@@ -790,7 +790,7 @@
                                     <li class="active"><a href="#tab-lv22-first" data-toggle="tab">Auditorio A1</a></li>
                                     <li><a href="#tab-lv22-second" data-toggle="tab">Auditorio A2</a></li>
                                     <li><a href="#tab-lv22-third" data-toggle="tab">Auditorio A3</a></li>
-                                    <li><a href="#tab-lv22-last" data-toggle="tab">HAll D</a></li>
+                                   <!-- <li><a href="#tab-lv22-last" data-toggle="tab">HAll D</a></li> -->
                                 </ul>
                             </div>
                             <div class="tab-content lv2">
@@ -1252,7 +1252,7 @@
                                     <li class="active"><a href="#tab-lv23-first" data-toggle="tab">Auditorio A1</a></li>
                                     <li><a href="#tab-lv23-second" data-toggle="tab">Auditorio A2</a></li>
                                     <li><a href="#tab-lv23-third" data-toggle="tab">Auditorio A3</a></li>
-                                    <li><a href="#tab-lv23-last" data-toggle="tab">HAll D</a></li>
+                                 <!--   <li><a href="#tab-lv23-last" data-toggle="tab">HAll D</a></li> -->
                                 </ul>
                             </div>
                             <div class="tab-content lv2">
@@ -1269,7 +1269,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1277,16 +1277,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> Utilidad de los estados de emancipación del Alma </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus Cap.VIII, 400 a 454. </p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Jose Noguera. / Venezuela
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1308,7 +1308,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 09:10 - 09:50 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1316,16 +1316,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> La evolución anímica </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> EL libro de los Espíritus Cap. XI, 585 a 610.</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Alejandro Sosa.  / Argentina
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1347,7 +1347,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 09:50 - 10:30 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1355,16 +1355,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> Adoración y oración: recursos del Espíritu para su conexión con Dios </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus  Cap.II, 649 a 666 </p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Elsa Rossi. Inglaterra / Inglaterra
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1375,7 +1375,120 @@
                                                 <!-- -->
                                             </div>
                                         </article>
-
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 - 11:40 AM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Nacer en la Tierra: un derecho del Espíritu </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus  Cap.IV, 693 y 694 – Cap.VII, 358 a 360 (Libro II) – Cap.VI, 728 a736 y 742 a 765 – También Libro IV, 943 a 950. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Claudia Werdine.  / España
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 12:20 - 1:00 PM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Ley de libertad: conquista del Espíritu inmortal </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus  Cap.X, 825 a 872. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Carmen Cardona.  / Colombia.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 3:00 - 6:00 PM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> La Era del Espíritu Inmortal </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Clausura 4 Congreso Espirita Suramericano  y Conferencia Divaldo Pereira Franco </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i>  Divaldo Pereira Franco.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
                                     </div>
                                 </div>
                                 <div id="tab-lv23-second" class="tab-pane fade">
@@ -1391,7 +1504,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1399,16 +1512,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> La acción benéfica del mundo de los Espíritus </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus Cap.IX, 456 a 524.</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Mónica Oliveira.  / Ecuador
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1430,7 +1543,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 09:10 - 09:50 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1438,16 +1551,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> La ley natural como expresión del amor divino </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus Cap.I, 614 a 623.</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Blanca Ines Orozco. / Colombia
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1458,7 +1571,158 @@
                                                 <!-- -->
                                             </div>
                                         </article>
-
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 09:50 - 10:30 AM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> El Trabajo como dádiva Divina </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap.III, 674 a 685 a.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Eduardo dos Santos.  / Uruguay.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 - 11:40 AM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Visión Espírita de la Constelación Familiar </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap. IV, 695 a 701.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Eduardo Nanni.   / Brasil.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:40 - 12:20 M </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> El progreso del hombre en tiempos de transición planetaria. </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap.VIII, 776 a 802.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Javier Franco.   / Chile.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                                                                <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 12:20 - 13:00 PM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> La Ley de Justicia, Amor y Caridad. </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap.XI, 873 a 892.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Francisco León. / Colombia.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
                                     </div>
                                 </div>
                                 <div id="tab-lv23-third" class="tab-pane fade">
@@ -1474,7 +1738,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 8:30 - 9:10 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1482,16 +1746,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> Influencia de los Espíritus en los acontecimientos de la vida </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus Cap.IX, 525 a 547  </p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> John Doe / Paraguay
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1513,7 +1777,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:10 - 9:50 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1521,16 +1785,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#"> El bien y el mal en la moral Espírita </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p> Libro de los Espíritus Cap.I, 629 a 646 </p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Jorge Godinho. / Brasil
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1541,168 +1805,122 @@
                                                 <!-- -->
                                             </div>
                                         </article>
-
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:50 - 10:30 AM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Ley de reproducción y la problemática poblacional </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap. IV, 686 a 692 a.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Nabor Jaramillo.  / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 - 11:40 AM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Amor a la naturaleza en el enfoque Espírita </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap.V, 702 a 714  -  Cap.VI, 728 a 741 </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Hugo Arriciaga.   / Ecuador.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                                                                <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 12:00 - 13:00 PM </span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> AEl Perfeccionamiento Moral como meta del Alma </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libro de los Espíritus Cap.XII, 893 a 919. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Jose Angel Cueto.  / Colombia.
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
                                     </div>
                                 </div>
-                                <div id="tab-lv23-last" class="tab-pane fade"><div class="timeline">
-
-                                    <article class="post-wrap">
-                                        <div class="media">
-                                            <!-- -->
-                                            <div class="post-media pull-left">
-                                                <img src="assets/img/preview/avatar-v2-1.jpg" alt="" class="media-object" />
-                                            </div>
-                                            <!-- -->
-                                            <div class="media-body">
-                                                <div class="post-header">
-                                                    <div class="post-meta">
-                                                        <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                        <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                        </a>
-                                                    </div>
-                                                    <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                </div>
-                                                <div class="post-body">
-                                                    <div class="post-excerpt">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> <strong>John Doe</strong> / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                </div>
-                                            </div>
-                                            <!-- -->
-                                        </div>
-                                    </article>
-
-                                    <article class="post-wrap">
-                                        <div class="media">
-                                            <!-- -->
-                                            <div class="post-media pull-left">
-                                                <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
-                                            </div>
-                                            <!-- -->
-                                            <div class="media-body">
-                                                <div class="post-header">
-                                                    <div class="post-meta">
-                                                        <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                        <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                        </a>
-                                                    </div>
-                                                    <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                </div>
-                                                <div class="post-body">
-                                                    <div class="post-excerpt">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                </div>
-                                            </div>
-                                            <!-- -->
-                                        </div>
-                                    </article>
-
-                                    <article class="post-wrap">
-                                        <div class="media">
-                                            <!-- -->
-                                            <div class="post-media pull-left">
-                                                <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
-                                            </div>
-                                            <!-- -->
-                                            <div class="media-body">
-                                                <div class="post-header">
-                                                    <div class="post-meta">
-                                                        <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                        <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                        </a>
-                                                    </div>
-                                                    <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                </div>
-                                                <div class="post-body">
-                                                    <div class="post-excerpt">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                </div>
-                                            </div>
-                                            <!-- -->
-                                        </div>
-                                    </article>
-
-                                    <article class="post-wrap">
-                                        <div class="media">
-                                            <!-- -->
-                                            <div class="post-media pull-left">
-                                                <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
-                                            </div>
-                                            <!-- -->
-                                            <div class="media-body">
-                                                <div class="post-header">
-                                                    <div class="post-meta">
-                                                        <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                        <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                        </a>
-                                                    </div>
-                                                    <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                </div>
-                                                <div class="post-body">
-                                                    <div class="post-excerpt">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                </div>
-                                            </div>
-                                            <!-- -->
-                                        </div>
-                                    </article>
-
-                                </div></div>
                             </div>
                         </div>
                         <!-- tab4 -->
