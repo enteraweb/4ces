@@ -1056,7 +1056,7 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">Nuestro origen divino y naturaleza espiritual</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
