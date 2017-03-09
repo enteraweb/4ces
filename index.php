@@ -508,7 +508,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 - 09:10 AM</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM </span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1293,7 +1293,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:10 AM - 9:50 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1305,7 +1305,7 @@
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Librs de los espíritus Cap. IV, 60 a 67</p>
+                                                            <p>Libros de los espíritus Cap. IV, 60 a 67</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
@@ -1326,13 +1326,13 @@
                                             <div class="media">
                                                 <!-- -->
                                                 <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
                                                 </div>
                                                 <!-- -->
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:50 AM - 10:30 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1340,16 +1340,289 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">Nuestro origen divino y naturaleza espiritual</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Libros de los espíritus Cap.I, 76 a 83</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Marcelo Netto. / Estados Unidos
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 AM - 11:40 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Ascenso Espiritual Hacia la Plenitud</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.I, 96 a 131</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> José Vásquez. / Venezuela
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:40 AM - 12:20 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">La Vivencia Espírita Frente al Materialismo Actual</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.II, 147 y 148</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Jorge Camargo Zurita. / México
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 12:20 M - 01:00 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Las Reencarnaciones sucesivas – Camino Hacia la Perfección</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.IV, 166 a 170</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Anyela Núñez. / Uruguay
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 03:00 PM - 03:40 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">El Sexo como Herramienta de Amor y Progreso</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap. IV, 200 a 202</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Pablo Arias. / Uruguay
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 03:40 PM - 04:20 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Elección de Pruebas como Mecanismo Evolutivo</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.VI, 258 a 273</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Axel Rhenals. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 04:20 PM - 05:00 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Preludios del Retorno a la Vida Corporal</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.VI, 258 a 273</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Jhonny Navarro. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 05:30 PM - 06:15 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">La Infancia como Escuela del Alma</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libros de los espíritus Cap.VII, 379 a 385</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> María de la Gracia de Ender. / Panamá
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1376,7 +1649,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 AM - 11:40 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
