@@ -17,7 +17,7 @@
     <meta name="keywords" content="espiritismo, doctrina espiritista, Congreso suramericano, palestras espiritas">
     <meta name ="description" content="Suscríbete al boletín informativo del 4º Congreso Espírita Suramericano y estarás al tanto de toda las noticias del evento.">
 
-    <title> 4° Congreso Espírita Suramericano. </title>
+    <title> 4° Congreso Espírita Suramericano...... </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
