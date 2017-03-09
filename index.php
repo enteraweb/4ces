@@ -2506,7 +2506,7 @@
                             </div>
                             <div class="caption before-media">
                                 <h3 class="caption-title"> Confederacion Espírita Colombiana </h3>
-                                <p class="caption-category">Co Founder</p>
+                                <p class="caption-category"> CONFECOL </p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
