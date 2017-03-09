@@ -1210,7 +1210,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 8:30 AM - 9:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -1238,11 +1238,6 @@
                                                 <!-- -->
                                             </div>
                                         </article>
-
-                                    </div>
-                                </div>
-                                <div id="tab-lv22-third" class="tab-pane fade">
-                                    <div class="timeline">
 
                                         <article class="post-wrap">
                                             <div class="media">
@@ -1593,7 +1588,14 @@
                                                 </div>
                                                 <!-- -->
                                             </div>
-                                        </article>                                        
+                                        </article>
+
+                                    </div>
+                                </div>
+                                <div id="tab-lv22-third" class="tab-pane fade">
+                                    <div class="timeline">
+
+                                                                                
 
                                     </div>
                                 </div>
