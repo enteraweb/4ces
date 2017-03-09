@@ -80,7 +80,7 @@
                         <li><a href="#about"> 4CES </a></li>
                         <li><a href="#schedule"> Programa </a></li>
                         <li><a href="#sponsors"> Boletines </a></li>
-                        <li><a href="#speakers"> Organizadores </a></li>
+                        <li><a href="#speakers"> Conferencistas </a></li>
                         <li><a href="#price"> Precios </a></li>
                         <li><a href="#location">Ubicación</a></li>
                         <li><a href="blog.html"> Hoteles </a></li>
@@ -2558,7 +2558,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner"> Organizadores <small> / 4CES </small></span>
+                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner"> Conferencistas <small> / 4CES </small></span>
                 </h1>
 
                 <!-- Speakers row -->
@@ -2698,7 +2698,7 @@
                 <!-- /Speakers row -->
 
                 <div class="text-center margin-top">
-                    <a data-animation="fadeInUp" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-user"></i> See all speakers</a>
+                    <a data-animation="fadeInUp" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-user"></i> Ver más conferencistas </a>
                 </div>
             </div>
         </section>
@@ -2726,8 +2726,10 @@
                              <div class="price-table-rows">
                                 <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Inscripción 4° Congreso Espírita Suramericano, 14, 15 y 16 octubre 2017. </div>
                                 <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Métodos de pago: Tarjetas de crédito, debito (PSE), efecto, vía Baloto y consignación. </div>
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Edición especial: Libro de los Espíritus </div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> No incluye almuerzos </div>
+                                <!--
+                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Edición especial: Libro de los Espíritus </div> -->
+                                <!--
+                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> No incluye almuerzos </div> -->
                                 <div class="price-table-row-bottom">
                                     <a class="btn btn-theme scroll-to" href="http://confecol.org/payu/" target="_blank"> Comprar Inscripción </a>
                                 </div>
@@ -2747,8 +2749,11 @@
                             <div class="price-table-rows">
                                 <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Inscripción 4° Congreso Espírita Suramericano, 14, 15 y 16 octubre 2017. </div>
                                 <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Métodos de pago: Tarjetas de crédito: Visa, MasterCard, American Express y Danier Club  </div>
+                                <!--
                                 <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Edición especial: Libro de los Espíritus </div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Almuerzos de los días: 15 y 16 octubre 2017. </div>
+                                -->
+                                <!--
+                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Almuerzos de los días: 15 y 16 octubre 2017. </div> -->
                                 <div class="price-table-row-bottom">
                                     <a class="btn btn-theme scroll-to" href="http://confecol.org/payu/" target="_blank"> Comprar Inscripción </a>
                                 </div>
