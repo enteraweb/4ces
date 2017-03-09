@@ -78,7 +78,7 @@
                     <ul class="sf-menu nav">
                         <li class="active"><a href="#Inicio">Inicio</a></li>
                         <li><a href="#about">About</a></li>
-                        <li><a href="#schedule">Schedule</a></li>
+                        <li><a href="#schedule"> Programación </a></li>
                         <li><a href="#sponsors">Sponsors</a></li>
                         <li><a href="#speakers">Speakers</a></li>
                         <li><a href="#price">Price</a></li>
@@ -1899,7 +1899,7 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#"> AEl Perfeccionamiento Moral como meta del Alma </a></h2>
+                                                        <h2 class="post-title"><a href="#">El Perfeccionamiento Moral como meta del Alma </a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
@@ -2660,12 +2660,12 @@
                     <div class="col-md-8 pull-left">
                         <h1 class="section-title">
                             <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-question fa-stack-1x"></i></span></span>
-                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Event FAQS <small> / find your answers</small></span>
+                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Preguntas Frecuentes <small> / 4CES </small></span>
                         </h1>
                     </div>
                     <div class="col-md-4 text-right-md pull-right">
                         <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"
-                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Open a ticket</a>
+                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Realizar una Pregunta </a>
                     </div>
                 </div>
                 <div class="row faq margin-top" data-animation="fadeInUp" data-animation-delay="100">
@@ -2776,7 +2776,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-file-text-o fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Recent Blog Posts <small> / get news!</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner"> Hoteles más cercanos <small> / 4CES </small></span>
                 </h1>
                 <div class="row post-row">
 
@@ -2890,7 +2890,7 @@
 
                 </div>
                 <div class="text-center margin-top">
-                    <a data-animation="flipInY" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-file"></i> See all news</a>
+                    <a data-animation="flipInY" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-file"></i> Ver más hoteles </a>
                 </div>
             </div>
         </section>
