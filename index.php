@@ -76,14 +76,14 @@
                 <nav class="navigation closed clearfix">
                     <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
                     <ul class="sf-menu nav">
-                        <li class="active"><a href="#Inicio">Inicio</a></li>
-                        <li><a href="#about">About</a></li>
+                        <li class="active"><a href="#Inicio"> Inicio </a></li>
+                        <li><a href="#about"> 4CES </a></li>
                         <li><a href="#schedule"> Programa </a></li>
-                        <li><a href="#sponsors">Sponsors</a></li>
-                        <li><a href="#speakers">Speakers</a></li>
-                        <li><a href="#price">Price</a></li>
+                        <li><a href="#sponsors"> Boletines </a></li>
+                        <li><a href="#speakers"> Organizadores </a></li>
+                        <li><a href="#price"> Precios </a></li>
                         <li><a href="#location">Ubicación</a></li>
-                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="blog.html"> Hoteles </a></li>
                     </ul>
                 </nav>
                 <!-- /Navigation -->
@@ -115,7 +115,7 @@
                                                 <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
                                             </div>
                                             <p class="caption-text">
-                                                <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a>
+                                                <a class="btn btn-theme btn-theme-xl scroll-to" href="http://confecol.org/payu/" data-animation="flipInY" data-animation-delay="600" target="_blank"> Comprar Inscripción <i class="fa fa-arrow-circle-right"></i></a>
                                             </p>
                                         </div>
                                     </div>
@@ -2359,7 +2359,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-thumbs-up fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Event Sponsors <small> / dont forget it</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner"> Boletines <small> / 4CES </small></span>
                 </h1>
                 <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
                     <div class="owl-carousel">
@@ -2450,7 +2450,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Event Speakers <small> / meet with greaters</small></span>
+                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner"> Organizadores <small> / 4CES </small></span>
                 </h1>
 
                 <!-- Speakers row -->
