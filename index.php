@@ -17,7 +17,7 @@
     <meta name="keywords" content="espiritismo, doctrina espiritista, Congreso suramericano, palestras espiritas">
     <meta name ="description" content="Suscríbete al boletín informativo del 4º Congreso Espírita Suramericano y estarás al tanto de toda las noticias del evento.">
 
-    <title> 4° Congreso Espírita Suramericano...... </title>
+    <title> 4° Congreso Espírita Suramericano </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -790,11 +790,412 @@
                                     <li class="active"><a href="#tab-lv22-first" data-toggle="tab">Auditorio A1</a></li>
                                     <li><a href="#tab-lv22-second" data-toggle="tab">Auditorio A2</a></li>
                                     <li><a href="#tab-lv22-third" data-toggle="tab">Auditorio A3</a></li>
-                                   <li><a href="#tab-lv22-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
                             <div class="tab-content lv2">
                                 <div id="tab-lv22-first" class="tab-pane fade in active">
+                                    <div class="timeline">
+                                        
+                                                                                <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#"> Nuestro Encuentro con Dios </a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p> Libros de los espíritus Cap. I,  1 a 16 </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Ubaldo Rodriguez. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:10 AM - 9:50 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Mundos y Razas en función de la Evolución del Espíritu</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.III,  40 a 58</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Edwin Bravo. / Guatemala
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 9:50 AM - 10:30 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Instinto e Inteligencia al Servicio del Bien</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.IV, 71 a 75</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Gustavo Martinez. / Argentina
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:00 AM -
+11:40 AM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Interacción entre el Espíritu, Periespíritu y la Salud Integral</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.I, 88 a 95</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Fabio Villarraga. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 11:40 AM -
+12:20 M</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Investigaciones Actuales sobre el Alma</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.II, 134 a 146 a</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Daniel Montanelli. / Argentina
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 12:20 M -
+01:00 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Los Estados de Conciencia frente a la Desencarnación</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.III, 154 a 165</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Gloria Insfran. / Paraguay
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 03:00 PM -
+03:40 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Fraternidad universal y los Mundos Habitados</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.IV, 172 a 188</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> David Ochoa. / Perú
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 03:40 PM -
+04:20 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Percepciones y sensaciones de los espíritus después de la muerte</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.VI, 237 a 257</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Alvaro Velez. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 04:20 PM -
+05:30 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Utilidad del Recuerdo de la Existencia Corpórea</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.VI, 304 a 319</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Julio Carvalho. / Estados Unidos
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+
+                                        <article class="post-wrap">
+                                            <div class="media">
+                                                <!-- -->
+                                                <div class="post-media pull-left">
+                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                </div>
+                                                <!-- -->
+                                                <div class="media-body">
+                                                    <div class="post-header">
+                                                        <div class="post-meta">
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 05:30 PM -
+08:15 PM</span>
+                                                            <a href="#" class="pull-right">
+                                                                <span class="fa-stack fa-lg">
+                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
+                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                        <h2 class="post-title"><a href="#">Facultades del alma: oportunidades de ascenso Espiritual</a></h2>
+                                                    </div>
+                                                    <div class="post-body">
+                                                        <div class="post-excerpt">
+                                                            <p>Libro de los espíritus Cap.VII, 361 a 378</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <span class="post-readmore">
+                                                            <i class="fa fa-microphone"></i> Jhon Rhenals. / Colombia
+                                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <!-- -->
+                                            </div>
+                                        </article>
+                                        
+                                    </div>
+                                </div>
+                                <div id="tab-lv22-second" class="tab-pane fade">
                                     <div class="timeline">
 
                                         <article class="post-wrap">
@@ -815,16 +1216,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">Función Consoladora del Conocimiento Espírita</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Libros de los espíritus Cap. II, 17 a 34</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Angelica Bedoya. / Chile
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -834,129 +1235,7 @@
                                                 </div>
                                                 <!-- -->
                                             </div>
-                                        </article>
-
-                                        <article class="post-wrap">
-                                            <div class="media">
-                                                <!-- -->
-                                                <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-1.jpg" alt="" class="media-object" />
-                                                </div>
-                                                <!-- -->
-                                                <div class="media-body">
-                                                    <div class="post-header">
-                                                        <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                            <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                    </div>
-                                                    <div class="post-body">
-                                                        <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> <strong>John Doe</strong> / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <!-- -->
-                                            </div>
-                                        </article>
-
-                                        <article class="post-wrap">
-                                            <div class="media">
-                                                <!-- -->
-                                                <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
-                                                </div>
-                                                <!-- -->
-                                                <div class="media-body">
-                                                    <div class="post-header">
-                                                        <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                            <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                    </div>
-                                                    <div class="post-body">
-                                                        <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <!-- -->
-                                            </div>
-                                        </article>
-
-                                        <article class="post-wrap">
-                                            <div class="media">
-                                                <!-- -->
-                                                <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
-                                                </div>
-                                                <!-- -->
-                                                <div class="media-body">
-                                                    <div class="post-header">
-                                                        <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                            <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                    </div>
-                                                    <div class="post-body">
-                                                        <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <!-- -->
-                                            </div>
-                                        </article>
-
-                                    </div>
-                                </div>
-                                <div id="tab-lv22-second" class="tab-pane fade">
-                                    <div class="timeline">
+                                        </article>   
 
                                         <article class="post-wrap">
                                             <div class="media">
@@ -968,7 +1247,7 @@
                                                 <div class="media-body">
                                                     <div class="post-header">
                                                         <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
+                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:30 AM - 9:10 AM</span>
                                                             <a href="#" class="pull-right">
                                                                 <span class="fa-stack fa-lg">
                                                                     <i class="fa fa-stack-2x fa-circle-thin"></i>
@@ -976,94 +1255,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">Función Consoladora del Conocimiento Espírita</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Libros de los espíritus Cap. II, 17 a 34</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <!-- -->
-                                            </div>
-                                        </article>
-
-                                        <article class="post-wrap">
-                                            <div class="media">
-                                                <!-- -->
-                                                <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
-                                                </div>
-                                                <!-- -->
-                                                <div class="media-body">
-                                                    <div class="post-header">
-                                                        <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                            <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                    </div>
-                                                    <div class="post-body">
-                                                        <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
-                                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <!-- -->
-                                            </div>
-                                        </article>
-
-                                        <article class="post-wrap">
-                                            <div class="media">
-                                                <!-- -->
-                                                <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-4.jpg" alt="" class="media-object" />
-                                                </div>
-                                                <!-- -->
-                                                <div class="media-body">
-                                                    <div class="post-header">
-                                                        <div class="post-meta">
-                                                            <span class="post-date"><i class="fa fa-clock-o"></i> 08:00 - 08:45</span>
-                                                            <a href="#" class="pull-right">
-                                                                <span class="fa-stack fa-lg">
-                                                                    <i class="fa fa-stack-2x fa-circle-thin"></i>
-                                                                    <i class="fa fa-stack-1x fa-share-alt"></i>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
-                                                    </div>
-                                                    <div class="post-body">
-                                                        <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="post-footer">
-                                                        <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Angelica Bedoya. / Chile
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
@@ -1084,7 +1285,7 @@
                                             <div class="media">
                                                 <!-- -->
                                                 <div class="post-media pull-left">
-                                                    <img src="assets/img/preview/avatar-v2-3.jpg" alt="" class="media-object" />
+                                                    <img src="assets/img/preview/avatar-v2-2.jpg" alt="" class="media-object" />
                                                 </div>
                                                 <!-- -->
                                                 <div class="media-body">
@@ -1098,16 +1299,16 @@
                                                                 </span>
                                                             </a>
                                                         </div>
-                                                        <h2 class="post-title"><a href="#">Speaker Content Header Is Header</a></h2>
+                                                        <h2 class="post-title"><a href="#">El Principio Vital como Recurso del Espíritu</a></h2>
                                                     </div>
                                                     <div class="post-body">
                                                         <div class="post-excerpt">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis in feugiat mollis, libero eros consectetur elit non cursus lacus nisl at dolor.</p>
+                                                            <p>Librs de los espíritus Cap. IV, 60 a 67</p>
                                                         </div>
                                                     </div>
                                                     <div class="post-footer">
                                                         <span class="post-readmore">
-                                                            <i class="fa fa-microphone"></i> John Doe / CEO at Crown.io
+                                                            <i class="fa fa-microphone"></i> Charles Kempf. / Francia
                                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                                             <a href="#"><i class="fa fa-twitter"></i></a>
                                                             <a href="#"><i class="fa fa-linkedin"></i></a>
