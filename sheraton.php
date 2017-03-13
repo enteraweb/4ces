@@ -96,133 +96,136 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, ligula vel tincidunt volutpat, metus orci volutpat sem, et varius libero est et velit. Suspendisse imperdiet nibh non nibh accumsan scelerisque. Praesent lobortis lacus id fermentum dictum. Curabitur consectetur lacus eget justo lacinia bibendum. Vestibulum lacinia lacus non risus rutrum, quis iaculis urna consequat. Fusce sed velit id nisi varius pulvinar. Donec arcu dui, facilisis non euismod nec, fringilla non odio. Aenean dignissim rhoncus consequat. Sed ultrices orci at nisi sodales, ut placerat leo ultrices.</p>
-
-                        <p>Praesent est ante, iaculis at enim at, condimentum rutrum dolor. Etiam accumsan lacinia neque eu rhoncus. Proin vitae feugiat neque, sit amet rhoncus ipsum. Nulla vitae tincidunt mi, rhoncus pellentesque arcu. Pellentesque ut sem sit amet libero mollis suscipit. Proin rutrum dignissim velit, a porta nisl ullamcorper non. Praesent volutpat mattis metus, ut gravida risus fringilla sit amet. Etiam interdum purus sed iaculis varius. Duis et congue ligula.</p>
-
-                        <p>Ut lobortis vestibulum lectus nec suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer a convallis libero, a malesuada risus. Nam eu lacus nibh. Nulla eu aliquam nunc. Duis eros eros, porta ac nisi vitae, venenatis pretium velit. Suspendisse eget malesuada massa. Aenean mollis sed nisi eget congue. Integer id eros egestas, ultrices dolor sed, mollis nunc. Maecenas semper pretium neque nec volutpat. Donec sit amet porttitor risus, ut vestibulum eros. Aenean sed libero non enim iaculis fermentum. Aliquam vestibulum consequat nisi, ac egestas lorem vehicula sed. Etiam placerat pellentesque massa, nec eleifend justo rhoncus vel. Pellentesque quis tristique nibh.</p>
-
-                        <p>Pellentesque in dictum tellus. Morbi sagittis dignissim pulvinar. Etiam a augue lacinia, consequat neque non, congue massa. Aenean fringilla hendrerit risus sed malesuada. Praesent sagittis felis euismod, cursus justo id, euismod nulla. Phasellus ipsum risus, posuere nec imperdiet ut, accumsan a mauris. Etiam consectetur molestie diam eu suscipit. Vivamus eu nisl viverra, gravida augue malesuada, malesuada arcu. Suspendisse pretium ante libero, non interdum nulla mattis a. Cras suscipit risus eget mauris auctor cursus. Nunc bibendum massa vel ante accumsan ultricies.</p>
-
+                        <p><strong>Dirección:</strong> Calle 25 B No 69 C 80</p>
+                        <p><strong>Teléfono:</strong> 571 210 50 00 02 Ext. 2131</p>
+                        <p><strong>Celular:</strong> 311 8626751</p>
+                        <p align="center"><strong>Tarifas</strong></p>
+                                <p><table style="width: 100%; height: auto;" width="100%" border="1" class="col-md-5">
+                                    <tr>
+                                        <td colspan="5" align="center"><strong>PISO ESTANDAR SHERATON</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center"><strong>TIPO DE HABITACION</strong></td>
+                                        <td align="center"><strong>TARIFA</strong></td>
+                                        <td align="center"><strong>IVA 19 %</strong></td>
+                                        <td align="center"><strong>SUBTOTAL</strong></td>
+                                        <td align="center"><strong>COSTOS ADICIONALES</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Sencilla (1 persona)</td>
+                                        <td align="center">$ 280.000</td>
+                                        <td align="center">$ 53.200</td>
+                                        <td align="center">$ 333.200</td>
+                                        <td align="center">6 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Doble (2 personas)</td>
+                                        <td align="center">$ 340.000</td>
+                                        <td align="center">$ 64.600</td>
+                                        <td align="center">$ 404.600</td>
+                                        <td align="center">12 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Junior (1 persona)</td>
+                                        <td align="center">$ 340.000</td>
+                                        <td align="center">$ 64.600</td>
+                                        <td align="center">$ 404.600</td>
+                                        <td align="center">6 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Junior Doble (2 personas)</td>
+                                        <td align="center">$ 400.000</td>
+                                        <td align="center">$ 76.000</td>
+                                        <td align="center">$ 476.000</td>
+                                        <td align="center">12 USD</td>
+                                    </tr>
+                                </table></p>
+                                <p>&nbsp;</p>
+                                <p><table style="width: 100%; height: auto;" width="100%" border="1" class="col-md-5">
+                                    <tr>
+                                        <td colspan="5" align="center"><strong>PISO CLUB LEVEL SHERATON</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center"><strong>TIPO DE HABITACION</strong></td>
+                                        <td align="center"><strong>TARIFA</strong></td>
+                                        <td align="center"><strong>IVA 19 %</strong></td>
+                                        <td align="center"><strong>SUBTOTAL</strong></td>
+                                        <td align="center"><strong>COSTOS ADICIONALES</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Sencilla (1 persona)</td>
+                                        <td align="center">$ 370.000</td>
+                                        <td align="center">$ 70.300</td>
+                                        <td align="center">$ 440.300</td>
+                                        <td align="center">6 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Doble (2 personas)</td>
+                                        <td align="center">$ 430.000</td>
+                                        <td align="center">$ 81.700</td>
+                                        <td align="center">$ 511.700</td>
+                                        <td align="center">12 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Junior (1 persona)</td>
+                                        <td align="center">$ 430.000</td>
+                                        <td align="center">$ 81.700</td>
+                                        <td align="center">$ 511.700</td>
+                                        <td align="center">6 USD</td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">Junior Doble (2 personas)</td>
+                                        <td align="center">$ 490.000</td>
+                                        <td align="center">$ 93.100</td>
+                                        <td align="center">$ 583.100</td>
+                                        <td align="center">12 USD</td>
+                                    </tr>
+                                </table></p>
+                            
+                            <p>&nbsp;</p>
+                            <p align="center"><strong>Valores Agregados</strong></p>
+                            <ul type="square">
+                                <li>Desayuno  Buffet enel  Restaurante La  Chimenea  desde  las  6:00AMhasta las 10:00AM.</li><br>
+                                <li>Servicio de despertador personalizado con café o jugo de naranja.</li><br>
+                                <li>Transporte Aeropuerto Hotel Aeropuerto (únicamente puertas nacionales e internacionales, no zonas de carga) de 5:00 AM hasta las 12 de la media noche. Es importante tener en cuenta que este transporte está disponible para todos los huéspedes de acuerdo a su itinerario de llegada.</li><br>
+                                <li>Internet ilimitado.</li><br>
+                                <li>Coffee station-free  en el lobby AM – PM (uso exclusivo para huéspedes).</li><br>
+                                <li>Afiliación al Programa de Starwood Preferred Guest.</li><br>
+                                <li>Acceso a nuestro SHERATON FITNESS CENTER (Piscina, Gimnasio, Sauna, Turco, Jacuzzi).</li><br>
+                                <li>Emergencias médicas 24 horas.</li>
+                            </ul>
+                            <p>&nbsp;</p>
+                            <p align="center"><strong>Valores Agregados Piso Ejecutivo</strong></p>
+                            <ul type="square">
+                                <li>Check in y check out personalizado</li><br>
+                                <li>Desayuno en el Club Lounge con opción de 1 invitado (No hospedado o alojado en Piso Estándar)</li><br>
+                                <li>Butler Service (servicio de mayordomo) 6:00 am a 10 pm</li><br>
+                                <li>Amenities especiales</li><br>
+                                <li>Batas y pantuflas para uso en la habitación</li><br>
+                                <li>Cafetera en la habitación</li><br>
+                                <li>Llamadas locales gratis</li><br>
+                                <li>Lavado de dos prendas en agua por estadía por habitación (no acumulable)</li><br>
+                                <li>Sala para reuniones (ubicada en la sala VIP del Business Center– sujeto a disponibilidad), incluye estación de café</li><br>
+                                <li>Pasabocas fríos a partir de las 6:00 pm hasta las 8:30 pm</li><br>
+                                <li>Estación permanente en el Club Lounge con aguas aromáticas y saborizadas, galletas, café, frutas y barras de cereal</li><br>
+                                <li>Una copa vino o dos cervezas nacionales diarias por huésped (no acumulables)</li><br>
+                                <li>Impresiones, servicio de scanner y fotocopias sin costo. (máximo 5 impresiones diarias)</li>
+                            </ul>
                     </div>
                 </div>
-                <footer class="post-meta">
-                    <span class="post-tags"><i class="fa fa-tag"></i> <a href="#">Egestas</a>, <a href="#">Nulla</a>, <a href="#">Sagittis</a>, <a href="#">Sed</a></span> &nbsp;
-                    <span class="post-categories"><i class="fa fa-folder-open"></i> <a href="#">Creative</a>, <a href="#">Inspiration</a>, <a href="#">Responsive</a>, <a href="#">Wordpress</a></span>
-                </footer>
+                
             </article>
 
             <!-- About the author -->
-            <div class="about-the-author clearfix">
-                <div class="media">
-                    <img class="img-circle media-object pull-left" src="assets/img/preview/avatar-v2-1.jpg" alt="">
-                    <div class="media-body">
-                        <h4 class="media-heading">Posted by <a href="#">John Doe</a></h4>
-                        <p>Praesent in tincidunt lorem. Nam in magna ut odio pharetra mollis at sit amet
-                            elit. Praesent tincidunt nisi non tellus varius euismod. Proin eget venenatis
-                            ipsum, vitae malesuada turpis. </p>
-                    </div>
-                </div>
-            </div>
+            
             <!-- /About the author -->
 
             <!-- Comments -->
-            <div class="comments">
-                <div class="media comment">
-                    <a href="#" class="pull-left comment-avatar">
-                        <img alt="" src="assets/img/preview/avatar-v2-3.jpg" class="media-object img-circle">
-                    </a>
-                    <div class="media-body">
-                        <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                        <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                        <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                    </div>
-                </div>
-                <div class="media comment">
-                    <a href="#" class="pull-left comment-avatar">
-                        <img alt="" src="assets/img/preview/avatar-v2-2.jpg" class="media-object img-circle">
-                    </a>
-                    <div class="media-body">
-                        <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                        <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                        <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                    </div>
-                </div>
-                <div class="media comment">
-                    <a href="#" class="pull-left comment-avatar">
-                        <img alt="" src="assets/img/preview/avatar-v2-3.jpg" class="media-object img-circle">
-                    </a>
-                    <div class="media-body">
-                        <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                        <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                        <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                        <div class="media comment">
-                            <a href="#" class="pull-left comment-avatar">
-                                <img alt="" src="assets/img/preview/avatar-v2-1.jpg" class="media-object img-circle">
-                            </a>
-                            <div class="media-body">
-                                <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                                <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                                <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                            </div>
-                        </div>
-                        <div class="media comment">
-                            <a href="#" class="pull-left comment-avatar">
-                                <img alt="" src="assets/img/preview/avatar-v2-2.jpg" class="media-object img-circle">
-                            </a>
-                            <div class="media-body">
-                                <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                                <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                                <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                            </div>
-                        </div>
-                        <div class="media comment">
-                            <a href="#" class="pull-left comment-avatar">
-                                <img alt="" src="assets/img/preview/avatar-v2-2.jpg" class="media-object img-circle">
-                            </a>
-                            <div class="media-body">
-                                <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                                <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                                <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="media comment">
-                    <a href="#" class="pull-left comment-avatar">
-                        <img alt="" src="assets/img/preview/avatar-v2-1.jpg" class="media-object img-circle">
-                    </a>
-                    <div class="media-body">
-                        <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                        <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                        <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                    </div>
-                </div>
-                <div class="media comment">
-                    <a href="#" class="pull-left comment-avatar">
-                        <img alt="" src="assets/img/preview/avatar-v2-3.jpg" class="media-object img-circle">
-                    </a>
-                    <div class="media-body">
-                        <p class="comment-meta"><span class="comment-author"><a href="#">John Doe</a> <span class="comment-date"> / February 2, 2014 at 8:55 pm</span></span></p>
-                        <p class="comment-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod neque.</p>
-                        <p class="comment-reply"><a href="#">Reply this comment</a></p>
-                    </div>
-                </div>
-            </div>
+            
             <!-- /Comments -->
 
             <!-- Leave a Comment -->
-            <div class="comments-form">
-                <h4 class="block-title">Leave a Comment</h4>
-                <form method="post" action="#" name="comments-form" id="comments-form">
-                    <div class="form-group"><input type="text" placeholder="Name" class="form-control" title="comments-form-name" name="comments-form-name"></div>
-                    <div class="form-group"><input type="text" placeholder="Email" class="form-control" title="comments-form-email" name="comments-formemail"></div>
-                    <div class="form-group"><input type="text" placeholder="Website" class="form-control" title="comments-form-website" name="comments-form-website"></div>
-                    <div class="form-group"><textarea placeholder="Your Message ..." class="form-control" title="comments-form-comments" name="comments-form-comments" rows="6"></textarea></div>
-                    <div class="form-group"><input type="submit" class="btn btn-theme" id="submit" value="Send Comment"></div>
-                </form>
-            </div>
+            
             <!-- /Leave a Comment -->
 
         </section>
