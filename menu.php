@@ -4,14 +4,14 @@ function menu($menu){
 echo '<nav class="navigation closed clearfix">
                     <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
                     <ul class="sf-menu nav">
-                        <li class="active"><a href="index.php#Inicio"> Inicio </a></li>
-                        <li><a href="index.php#about"> 4CES </a></li>
-                        <li><a href="index.php#schedule"> Programa </a></li>
-                        <li><a href="index.php#sponsors"> Boletines </a></li>
-                        <li><a href="index.php#speakers"> Conferencistas </a></li>
-                        <li><a href="index.php#price"> Precios </a></li>
-                        <li><a href="index.php#location">Ubicación</a></li>
-                        <li><a href="hoteles.php"> Hoteles </a></li>
+                        <li class="active"><a href="#Inicio"> Inicio </a></li>
+                        <li><a href="#about"> 4CES </a></li>
+                        <li><a href="#schedule"> Programa </a></li>
+                        <li><a href="#sponsors"> Boletines </a></li>
+                        <li><a href="#speakers"> Conferencistas </a></li>
+                        <li><a href="#price"> Precios </a></li>
+                        <li><a href="#location">Ubicación</a></li>
+                        <li><a href="#hoteles"> Hoteles </a></li>
                         <li><a href="http://confecol.org/payu/user/contacto.php" target="_blank"> Contáctanos </a></li>
                     </ul>
                 </nav>';

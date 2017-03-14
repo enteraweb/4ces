@@ -3224,11 +3224,11 @@
             </div>
         </section>
         <!-- /Donation -->
-        <section class="page-section">
+        <section class="page-section" id="hoteles">
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa crcle fa-stack-2x"></i><i class="fa fa-file-text-o fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner"> Hoteles más cercanos <small> / 4CES </small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner"> Los 10 Hoteles más cercanos <small> / 4CES </small></span>
                 </h1>
                 <div class="row post-row">
 
@@ -3236,33 +3236,27 @@
                     <div class="col-md-4">
                         <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
                             <div class="post-media">
-                                <div class="post-type">
-                                    <i class="fa fa-video-camera"></i>
-                                </div>
                                 <img src="assets/img/preview/recent-post-1.jpg" alt=""/>
                             </div>
                             <div class="post-header">
-                                <h2 class="post-title"><a href="#">Standart Blog Post Header Here</a></h2>
+                                <h2 class="post-title"><a href="#"> Hotel Sede 4CES: Hotel Boutique City Center </a></h2>
                                 <div class="post-meta">
                                     <span class="post-date">
-                                        Posted on
-                                        <span class="day">17th</span>
-                                        <span class="month">May</span>
-                                        <span class="year">2014</span>
-                                    </span>
-                                    <span class="pull-right">
-                                        <i class="fa fa-comment"></i> <a href="#">12</a>
+                                       Dirección: Cra. 39 No. 25 – 26  Bogotá - Colombia /
+                                        <span class="day"> Tel: </span>
+                                        <span class="month"> (571) </span>
+                                        <span class="year"> 745 99 40 </span>
                                     </span>
                                 </div>
                             </div>
                             <div class="post-body">
                                 <div class="post-excerpt">
-                                    <p>Fusce pellentesque velvitae tincidunt egestas. Pellentesque habitant morbi tristiquetus et senectus et netus et malesuada ac turpis.</p>
+                                    <p> Desayuno Buffet atendido en el Restaurante, Internet Wi- Fi de alta velocidad. </p>
                                 </div>
                             </div>
                             <div class="post-footer">
                                 <span class="post-readmore">
-                                    <a href="#" class="btn btn-theme btn-theme-transparent">Read more</a>
+                                    <a href="#" class="btn btn-theme btn-theme-transparent"> Más información </a>
                                 </span>
                             </div>
                         </article>
@@ -3272,33 +3266,28 @@
                     <div class="col-md-4">
                         <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="300">
                             <div class="post-media">
-                                <div class="post-type">
-                                    <i class="fa fa-photo"></i>
-                                </div>
                                 <img src="assets/img/preview/recent-post-2.jpg" alt=""/>
                             </div>
                             <div class="post-header">
-                                <h2 class="post-title"><a href="#">Standart Blog Post Header Here</a></h2>
+                                <h2 class="post-title"><a href="sheraton.php" target="_blank"> Hotel Sheraton <br><br></a></h2>
                                 <div class="post-meta">
                                     <span class="post-date">
-                                        Posted on
-                                        <span class="day">17th</span>
-                                        <span class="month">May</span>
-                                        <span class="year">2014</span>
+                                        Dirección: Calle 25 B No 69 C 80 Bogotá - Colombia /
+                                        <span class="day"> Tel:  </span>
+                                        <span class="month"> (571) 210 50 00</span>
+                                        <span class="year"> 02 Ext. 2131 </span>
                                     </span>
-                                    <span class="pull-right">
-                                        <i class="fa fa-comment"></i> <a href="#">12</a>
-                                    </span>
+
                                 </div>
                             </div>
                             <div class="post-body">
                                 <div class="post-excerpt">
-                                    <p>Fusce pellentesque velvitae tincidunt egestas. Pellentesque habitant morbi tristiquetus et senectus et netus et malesuada ac turpis.</p>
+                                    <p>Desayuno Buffet en el Restaurante La Chimenea desde las 6:00 AM hasta las 10:00 AM, </p>
                                 </div>
                             </div>
                             <div class="post-footer">
                                 <span class="post-readmore">
-                                    <a href="#" class="btn btn-theme btn-theme-transparent">Read more</a>
+                                    <a href="sheraton.php" target="_blank" class="btn btn-theme btn-theme-transparent"> más información </a>
                                 </span>
                             </div>
                         </article>
@@ -3308,33 +3297,27 @@
                     <div class="col-md-4">
                         <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="500">
                             <div class="post-media">
-                                <div class="post-type">
-                                    <i class="fa fa-music"></i>
-                                </div>
                                 <img src="assets/img/preview/recent-post-3.jpg" alt=""/>
                             </div>
                             <div class="post-header">
-                                <h2 class="post-title"><a href="#">Standart Blog Post Header Here</a></h2>
+                                <h2 class="post-title"><a href="#"> Hotel Capital <br><br></a></h2>
                                 <div class="post-meta">
                                     <span class="post-date">
-                                        Posted on
-                                        <span class="day">17th</span>
-                                        <span class="month">May</span>
-                                        <span class="year">2014</span>
-                                    </span>
-                                    <span class="pull-right">
-                                        <i class="fa fa-comment"></i> <a href="#">12</a>
+                                       Dirección: Calle 25B N69A – 50 Bogotá - Colombia /
+                                        <span class="day"> Tel:   </span>
+                                        <span class="month"> (571) </span>
+                                        <span class="year"> 423 3000 </span>
                                     </span>
                                 </div>
                             </div>
                             <div class="post-body">
                                 <div class="post-excerpt">
-                                    <p>Fusce pellentesque velvitae tincidunt egestas. Pellentesque habitant morbi tristiquetus et senectus et netus et malesuada ac turpis.</p>
+                                    <p> Desayuno Buffet servido en el Restaurante El Paso, Internet  WI-FI </p>
                                 </div>
                             </div>
                             <div class="post-footer">
                                 <span class="post-readmore">
-                                    <a href="#" class="btn btn-theme btn-theme-transparent">Read more</a>
+                                    <a href="#" class="btn btn-theme btn-theme-transparent"> Más información </a>
                                 </span>
                             </div>
                         </article>
@@ -3342,7 +3325,7 @@
 
                 </div>
                 <div class="text-center margin-top">
-                    <a data-animation="flipInY" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-file"></i> Ver más hoteles </a>
+                    <a data-animation="flipInY" data-animation-delay="100" href="hoteles.php" class="btn btn-theme" target="_blank"><i class="fa fa-file"></i> Ver más hoteles </a>
                 </div>
             </div>
         </section>
