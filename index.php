@@ -3300,7 +3300,7 @@
                                 <img src="assets/img/preview/recent-post-3.jpg" alt=""/>
                             </div>
                             <div class="post-header">
-                                <h2 class="post-title"><a href="#"> Hotel Capital <br><br></a></h2>
+                                <h2 class="post-title"><a href="hotel-capital.php" target="_blank"> Hotel Capital <br><br></a></h2>
                                 <div class="post-meta">
                                     <span class="post-date">
                                        Dirección: Calle 25B N69A – 50 Bogotá - Colombia /
@@ -3317,7 +3317,7 @@
                             </div>
                             <div class="post-footer">
                                 <span class="post-readmore">
-                                    <a href="#" class="btn btn-theme btn-theme-transparent"> Más información </a>
+                                    <a href="hotel-capital.php"  target="_blank" class="btn btn-theme btn-theme-transparent"> Más información </a>
                                 </span>
                             </div>
                         </article>
