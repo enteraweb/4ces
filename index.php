@@ -3239,7 +3239,7 @@
                                 <img src="assets/img/preview/recent-post-1.jpg" alt=""/>
                             </div>
                             <div class="post-header">
-                                <h2 class="post-title"><a href="#"> Hotel Sede 4CES: Hotel Boutique City Center </a></h2>
+                                <h2 class="post-title"><a href="hotel-boutique-city-center.php" target="_blank"> Hotel Sede 4CES: Hotel Boutique City Center </a></h2>
                                 <div class="post-meta">
                                     <span class="post-date">
                                        Dirección: Cra. 39 No. 25 – 26  Bogotá - Colombia /
@@ -3256,7 +3256,7 @@
                             </div>
                             <div class="post-footer">
                                 <span class="post-readmore">
-                                    <a href="#" class="btn btn-theme btn-theme-transparent"> Más información </a>
+                                    <a href="hotel-boutique-city-center.php" class="btn btn-theme btn-theme-transparent" target="_blank"> Más información </a>
                                 </span>
                             </div>
                         </article>
