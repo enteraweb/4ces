@@ -25,7 +25,7 @@
     <link href="assets/plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet">
     <link href="assets/plugins/animate/animate.min.css" rel="stylesheet">
 
-    <link href="assets/css/theme.css" rel="stylesheet">
+    <link href="assets/css/theme.css" rel="stylesheet"> 
     <link href="assets/css/custom.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
