@@ -10,7 +10,7 @@
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title> Hotel Macao </title>
+    <title> Hotel Fidenzi </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -85,17 +85,18 @@
 
             <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
                 <div class="post-media">
-                    <img src="assets/img/hoteles/macao.jpg" alt="Hotel Boutique City Center"/>
+                    <img src="assets/img/hoteles/fidenzi.jpg" alt="Hotel Boutique City Center"/>
                 </div>
                 <div class="post-header">
-                    <h2 class="post-title"><a href="#"> Hotel Macao </a></h2>
+                    <h2 class="post-title"><a href="#"> Hotel Fidenzie </a></h2>
 
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Av La Esperanza N° 44 A 21 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 746 80 75.<br />
-                    <strong>Pagina Web: </strong><a href="http://www.hotelfidenzi.com/" target="_blank"> http://www.hotelfidenzi.com/ </a></p>
+                    <p><strong>Direccion:</strong> Calle 23ª # 36A-10 / Bogotá - Colombia.<br />
+                    <strong>Telefono:</strong> (571) - 702 84 84.<br />
+                    <strong>Pagina Web: </strong><a href="http://www.hotelfidenzi.com" target="_blank"> http://www.hotelfidenzi.com </a></p>
+
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>
                         <table width="80%" border="0" align="center" cellpadding="3" cellspacing="3">
@@ -103,43 +104,38 @@
                             <th scope="col"><div align="center"> Acomodación Sencilla </div></th>
                             <th scope="col"><div align="center"> Acomodación Doble</div></th>
                             <th scope="col"><div align="center"> Acomodación Triple</div></th>
-                            <th scope="col"><div align="center"> Acomodación cuadruple</div></th>
                           </tr>
                           <tr>
                             <td>
-                            <div align="center"> $150.000 + IVA + SH $4.000 </div>
+                            <div align="center"> $75.630 + IVA </div>
                             </td>
                             <td><div align="center">
-                              <div> $170.000 + IVA + SH $8.000 </div>
+                              <div> $100.840 + IVA </div>
                             </div></td>
                             <td><div align="center">
-                              <div> $280.000+ IVA + SH $16.000 </div>
-                            </div></td>
-                            <td><div align="center">
-                              <div>$280.000+ IVA + SH $20.000</div>
+                              <div> $126,050 + IVA </div>
                             </div></td>
                           </tr>
                           <tr>
                             <td><div align="center">
-                              <div> $ 182.500 </div>
+                              <div> $ 90.000 </div>
                             </div></td>
                             <td><div align="center">
-                              <div> $ 210.300 </div>
+                              <div> $ 120.000 </div>
                             </div></td>
                             <td><div align="center">
-                              <div> $ 261.900 </div>
+                              <div> $ 150.000 </div>
                             </div></td>
-                            <td><div align="center">$ 349.200 </div></td>
                           </tr>
                         </table>
                     <hr>
                     <h2 class="post-title"><a href="#"> Valores agregados </a></h2>
 
                             <ul style="list-style-type:circle">
-                              <li> Desayuno Tipo Buffet o a la habitación. </li>
-                              <li> Asistencia Médica. </li>
+                              <li> Desayuno americano. </li>
                               <li> Internet Wi-Fi. </li>
-                              <li> Llamadas locales sin costo los primeros 10 minuto. </li>
+                              <li> Llamadas locales. </li>
+                              <li> Cajilla de seguridad. </li>
                             </ul>
 
                     </div>
