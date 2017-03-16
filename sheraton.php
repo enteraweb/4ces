@@ -10,7 +10,7 @@
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Sheraton</title>
+    <title> Hotel Sheraton </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -91,15 +91,16 @@
                     <img src="assets/img/hoteles/sheraton.jpg" alt="Sheraton"/>
                 </div>
                 <div class="post-header">
-                    <h2 class="post-title"><a href="#">Sheraton | Hotels & Resorts</a></h2>
+                    <h2 class="post-title"><a href="#">Hotel Sheraton </a></h2>
 
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                        <p><strong>Dirección:</strong> Calle 25 B No 69 C 80</p>
-                        <p><strong>Teléfono:</strong> 571 210 50 00 02 Ext. 2131</p>
-                        <p><strong>Celular:</strong> 311 8626751</p>
-                        <p align="center"><strong>Tarifas</strong></p>
+                        <div><strong>Dirección:</strong> Calle 25 B No 69 C 80</div>
+                       <div> <strong>Teléfono:</strong> 571 210 50 00 02 Ext. 2131</div>
+                       <div> <strong>Celular:</strong> 311 8626751</div>
+                       <div> <strong>Sitio Web:</strong> <a href="https://goo.gl/cBSgDw" target="_blank"> https://goo.gl/cBSgDw </a></div>
+                        <p align="center"><strong>Tarifas</strong>
                                 <p><table style="width: 100%; height: auto;" width="100%" border="1" class="col-md-5">
                                     <tr>
                                         <td colspan="5" align="center"><strong>PISO ESTANDAR SHERATON</strong></td>

@@ -10,7 +10,7 @@
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Hoteles</title> 
+    <title> Hoteles 4CES </title>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -85,116 +85,195 @@
 
             <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
                 <div class="post-media">
-                    <div class="post-type">
-                        <i class="fa fa-video-camera"></i>
-                    </div>
-                    <img src="assets/img/preview/blog-post-1.jpg" alt=""/>
+                    <img src="assets/img/hoteles/boutique.jpg" alt=""/>
                 </div>
                 <div class="post-header">
-                    <h2 class="post-title"><a href="blog-single.html">Standart Blog Post Header Here</a></h2>
+                    <h2 class="post-title"><a href="hotel-boutique-city-center.php"> Hotel Sede 4CES: Hotel Boutique City Center </a></h2>
                     <div class="post-meta">
                         <span class="post-date">
-                            Posted on
-                            <span class="day">17th</span>
-                            <span class="month">May</span>
-                            <span class="year">2014</span>
+                            Dirección: Cra. 39 No. 25 – 26 Bogotá - Colombia / Tel: (571) 745 99 40
                         </span>
-                        <span class="pull-right">
-                            <i class="fa fa-comment"></i> <a href="#">12</a>
-                        </span>
-                    </div>
-                </div>
-                <div class="post-body">
-                    <div class="post-excerpt">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris porttitor, mi eu sollicitudin aliquam, nulla nulla egestas nisl, vel egestas ligula elit non libero. Nullam sed rutrum leo. Quisque dapibus ante ac ante lacinia, sit amet rhoncus dui accumsan. Aenean luctus dui orci, sit amet rutrum nisl tincidunt sit amet. Fusce congue tellus eget fermentum feugiat. Curabitur eleifend dignissim augue. Pellentesque cursus dui et felis aliquam volutpat.</p>
                     </div>
                 </div>
                 <div class="post-footer">
                     <span class="post-readmore">
-                        <a href="blog-single.html" class="btn btn-theme btn-theme-transparent">Read more</a>
+                        <a href="hotel-boutique-city-center.php" class="btn btn-theme btn-theme-transparent"> Más información </a>
                     </span>
                 </div>
             </article>
 
             <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
                 <div class="post-media">
-                    <div class="post-type">
-                        <i class="fa fa-picture-o"></i>
-                    </div>
-                    <img src="assets/img/preview/blog-post-2.jpg" alt=""/>
+                    <img src="assets/img/hoteles/sheraton.jpg" alt=""/>
                 </div>
                 <div class="post-header">
-                    <h2 class="post-title"><a href="blog-single.html">Standart Blog Post Header Here</a></h2>
+                    <h2 class="post-title"><a href="sheraton.php"> Hotel Sheraton </a></h2>
                     <div class="post-meta">
                         <span class="post-date">
-                            Posted on
-                            <span class="day">17th</span>
-                            <span class="month">May</span>
-                            <span class="year">2014</span>
+                            Dirección: Calle 25 B No 69 C 80 Bogotá - Colombia / Tel: (571) 210 50 00 02 Ext. 2131
                         </span>
-                        <span class="pull-right">
-                            <i class="fa fa-comment"></i> <a href="#">12</a>
-                        </span>
-                    </div>
-                </div>
-                <div class="post-body">
-                    <div class="post-excerpt">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris porttitor, mi eu sollicitudin aliquam, nulla nulla egestas nisl, vel egestas ligula elit non libero. Nullam sed rutrum leo. Quisque dapibus ante ac ante lacinia, sit amet rhoncus dui accumsan. Aenean luctus dui orci, sit amet rutrum nisl tincidunt sit amet. Fusce congue tellus eget fermentum feugiat. Curabitur eleifend dignissim augue. Pellentesque cursus dui et felis aliquam volutpat.</p>
                     </div>
                 </div>
                 <div class="post-footer">
                     <span class="post-readmore">
-                        <a href="blog-single.html" class="btn btn-theme btn-theme-transparent">Read more</a>
+                        <a href="sheraton.php" class="btn btn-theme btn-theme-transparent"> Más información </a>
                     </span>
                 </div>
             </article>
 
             <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
                 <div class="post-media">
-                    <div class="post-type">
-                        <i class="fa fa-music"></i>
-                    </div>
-                    <img src="assets/img/preview/blog-post-3.jpg" alt=""/>
+                    <img src="assets/img/hoteles/capital.jpg" alt=""/>
                 </div>
                 <div class="post-header">
-                    <h2 class="post-title"><a href="blog-single.html">Standart Blog Post Header Here</a></h2>
+                    <h2 class="post-title"><a href="hotel-capital.php"> Hotel Capital  </a></h2>
                     <div class="post-meta">
                         <span class="post-date">
-                            Posted on
-                            <span class="day">17th</span>
-                            <span class="month">May</span>
-                            <span class="year">2014</span>
+                            Dirección: Calle 25B N69A – 50 Bogotá - Colombia / Tel: (571) 423 3000
                         </span>
-                        <span class="pull-right">
-                            <i class="fa fa-comment"></i> <a href="#">12</a>
-                        </span>
-                    </div>
-                </div>
-                <div class="post-body">
-                    <div class="post-excerpt">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris porttitor, mi eu sollicitudin aliquam, nulla nulla egestas nisl, vel egestas ligula elit non libero. Nullam sed rutrum leo. Quisque dapibus ante ac ante lacinia, sit amet rhoncus dui accumsan. Aenean luctus dui orci, sit amet rutrum nisl tincidunt sit amet. Fusce congue tellus eget fermentum feugiat. Curabitur eleifend dignissim augue. Pellentesque cursus dui et felis aliquam volutpat.</p>
                     </div>
                 </div>
                 <div class="post-footer">
                     <span class="post-readmore">
-                        <a href="blog-single.html" class="btn btn-theme btn-theme-transparent">Read more</a>
+                        <a href="hotel-capital.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
                     </span>
                 </div>
             </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/macao.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-macao.php"> Hotel Macao  </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                            Dirección: Av La Esperanza N° 44 A 21 / Bogotá - Colombia. Teléfono: (571) - 746 80 75.
 
-            <!-- Pagination -->
-            <div class="pagination-wrapper">
-                <ul class="pagination">
-                    <li class="disabled"><a href="#">«</a></li>
-                    <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">»</a></li>
-                </ul>
-            </div>
-            <!-- /Pagination -->
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-macao.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/AZ.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-AZ.php"> Hotel AZ  </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                            Dirección: Dirección: Calle 24 A # 44-36 / Bogotá - Colombia. Teléfono: (571) - 756 30 18.
 
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-AZ.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/mirador.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-mirador-del-recuerdo.php"> Hotel Mirador del Recuerdo  </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                            Dirección: Cra. 39ª 25-50 / Bogotá - Colombia. Teléfono: (571) - 743 34 60.
+
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-mirador-del-recuerdo.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/casa.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-casa-mahanaim.php"> Hotel Casa Mahanaim </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                           Dirección: Av. Carrera 40-No.24C 11 Esquina / Bogotá - Colombia. Teléfono: (571) - 244 74 37.
+
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-casa-mahanaim.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/dorado.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-dorado.php"> Hotel Dorado Gold </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                           Dirección: Av. Rojas # 66 – 14 / Bogotá - Colombia. Teléfono: (571) - 244 74 37.
+
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-dorado.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/parque.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-elite-parque.php"> Hotel Élite del Parque </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                          Dirección: Av. Calle 53 No. 66A 59 / Bogotá - Colombia. Teléfono: (571) - 574 53 47.
+
+
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-elite-parque.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
+            <article class="post-wrap" data-animation="fadeInUp" data-animation-delay="100">
+                <div class="post-media">
+                    <img src="assets/img/hoteles/fidenzi.jpg" alt=""/>
+                </div>
+                <div class="post-header">
+                    <h2 class="post-title"><a href="hotel-fidenzi.php"> Hotel Fidenzi </a></h2>
+                    <div class="post-meta">
+                        <span class="post-date">
+                          Dirección: Calle 23ª # 36A-10 / Bogotá - Colombia. Teléfono: (571) - 702 84 84..
+
+
+                        </span>
+                    </div>
+                </div>
+                <div class="post-footer">
+                    <span class="post-readmore">
+                        <a href="hotel-fidenzi.php" class="btn btn-theme btn-theme-transparent"> Más información</a>
+                    </span>
+                </div>
+            </article>
         </section>
         <!-- Content -->
 

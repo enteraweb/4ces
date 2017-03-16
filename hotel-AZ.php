@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Calle 24 A # 44-36 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 756 30 18.<br />
+                    <p><strong>Dirección:</strong> Calle 24 A # 44-36 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 756 30 18.<br />
                     <strong>Pagina Web: </strong><a href="http://www.azhotelcolombia.com" target="_blank"> http://www.azhotelcolombia.com </a></p>
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>
