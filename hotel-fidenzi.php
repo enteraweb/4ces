@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Calle 23ª # 36A-10 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 702 84 84.<br />
+                    <p><strong>Dirección:</strong> Calle 23ª # 36A-10 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 702 84 84.<br />
                     <strong>Pagina Web: </strong><a href="http://www.hotelfidenzi.com" target="_blank"> http://www.hotelfidenzi.com </a></p>
 
 <hr>

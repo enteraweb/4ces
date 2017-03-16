@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Cra. 39ª 25-50 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 743 34 60.<br />
+                    <p><strong>Dirección:</strong> Cra. 39ª 25-50 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 743 34 60.<br />
                     <strong>Pagina Web: </strong><a href="https://www.miradordelrecuerdo.com" target="_blank"> https://www.miradordelrecuerdo.com </a></p>
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>
@@ -103,7 +103,7 @@
                             <th scope="col"><div align="center"> Acomodación Sencilla </div></th>
                             <th scope="col"><div align="center"> Acomodación Doble</div></th>
                             <th scope="col"><div align="center"> Acomodación Triple</div></th>
-                            <th scope="col"><div align="center"> Acomodación cuadruple</div></th>
+                            <th scope="col"><div align="center"> Acomodación Cuádruple</div></th>
                           </tr>
                           <tr>
                             <td>

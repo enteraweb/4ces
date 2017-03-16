@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Calle 25B N69A – 50 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 423 30 00.<br />
+                    <p><strong>Dirección:</strong> Calle 25B N69A – 50 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 423 30 00.<br />
                     <strong>Pagina Web: </strong><a href="http://www.hotelcapital.com.co/" target="_blank"> http://www.hotelcapital.com.co/ </a></p>
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>

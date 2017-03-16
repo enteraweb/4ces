@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Cra. 39 No. 25 – 26 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 745 99 40.<br />
+                    <p><strong>Dirección:</strong> Cra. 39 No. 25 – 26 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 745 99 40.<br />
                     <strong>Pagina Web: </strong><a href="http://www.hotelboutiquecitycenter.com/" target="_blank"> http://www.hotelboutiquecitycenter.com/ </a></p>
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>

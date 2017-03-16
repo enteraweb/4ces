@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Av. Rojas # 66 – 14 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) -  244 74 37.<br />
+                    <p><strong>Dirección:</strong> Av. Rojas # 66 – 14 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) -  244 74 37.<br />
                     <strong>Pagina Web: </strong><a href="http://www.hotelesdoradogold.com" target="_blank"> http://www.hotelesdoradogold.com </a></p>
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>
@@ -103,7 +103,7 @@
                             <th scope="col"><div align="center"> Acomodación Sencilla </div></th>
                             <th scope="col"><div align="center"> Acomodación Doble</div></th>
                             <th scope="col"><div align="center"> Acomodación Triple</div></th>
-                            <th scope="col"><div align="center"> Acomodación cuadruple</div></th>
+                            <th scope="col"><div align="center"> Acomodación cuádruple</div></th>
                           </tr>
                           <tr>
                             <td>

@@ -93,8 +93,8 @@
                 </div>
                 <div class="post-body">
                     <div class="post-excerpt">
-                    <p><strong>Direccion:</strong> Av. Calle 53 No. 66A 59 / Bogotá - Colombia.<br />
-                    <strong>Telefono:</strong> (571) - 574 53 47.<br />
+                    <p><strong>Dirección:</strong> Av. Calle 53 No. 66A 59 / Bogotá - Colombia.<br />
+                    <strong>Teléfono:</strong> (571) - 574 53 47.<br />
                    <!-- <strong>Pagina Web: </strong><a href="http://www.hotelesdoradogold.com" target="_blank"> http://www.hotelesdoradogold.com </a></p> -->
 <hr>
                     <h2 class="post-title"><a href="#"> Tarifas </a></h2>
